@@ -1,2 +1,3 @@
 spring boot
 hibernate
+lombok
