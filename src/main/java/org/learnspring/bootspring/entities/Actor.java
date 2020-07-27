@@ -1,4 +1,4 @@
-package org.learnspring.bootspring.model.entities;
+package org.learnspring.bootspring.entities;
 
 import java.util.Date;
 
@@ -20,7 +20,7 @@ public class Actor {
 
     @Id
     @Column(name = "actor_id")
-    int id;
+    Long id;
     @Column(name = "first_name")
     String firstName;
     @Column(name = "last_name")
