@@ -1,6 +1,6 @@
 package org.learnspring.bootspring.repository;
 
-import org.learnspring.bootspring.entities.Actor;
+import org.learnspring.bootspring.entity.Actor;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

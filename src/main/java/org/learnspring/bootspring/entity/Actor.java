@@ -1,4 +1,4 @@
-package org.learnspring.bootspring.entities;
+package org.learnspring.bootspring.entity;
 
 import java.util.Date;
 

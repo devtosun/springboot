@@ -1,6 +1,6 @@
-package org.learnspring.bootspring.services;
+package org.learnspring.bootspring.service;
 
-import org.learnspring.bootspring.entities.Actor;
+import org.learnspring.bootspring.entity.Actor;
 import org.learnspring.bootspring.repository.ActorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
